@@ -1,0 +1,1 @@
+Testing new ways to include text and content into a test site using CommandBox.
